@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SearchCountries")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70f5af19dac6ef79cf583af17e05ea70aaf97a0e")]
 [assembly: System.Reflection.AssemblyProductAttribute("SearchCountries")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SearchCountries")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

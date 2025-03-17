@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "SearchCountries",
   "resources": {
-    "hash": "sha256-8HUSRCOW0p6eBXq1ip9ytrQqgJsL5GizNcrI1Yd1heI=",
+    "hash": "sha256-E7XImEpaWEI5IzWZJor9D+9i1BpxoUg9CXNoSNF0few=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.da83xzpz5r.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.vmzb2angnn.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -201,8 +201,8 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "SearchCountries.4afqh0ylz1.wasm": "SearchCountries.wasm",
-      "SearchCountries.2jevpof9eb.pdb": "SearchCountries.pdb"
+      "SearchCountries.oad7smve1v.wasm": "SearchCountries.wasm",
+      "SearchCountries.5o5db1wofc.pdb": "SearchCountries.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.1p93gcv9fh.js": "sha256-1UPiprzN3JhPftx3be7XEMaYlUN+chRF41CuttiWVtQ="
@@ -412,10 +412,10 @@
       "WindowsBase.ag32297siy.wasm": "sha256-BgyZxTgdU9rIYlNC9ZMiMjnvBAJSL0eQH8Y87o1M+q4=",
       "mscorlib.vt9pwshhot.wasm": "sha256-/aFxOaPc1iTNlJw0z4/RGEMD0nzl4qVE3SF4wMsLgp0=",
       "netstandard.or41gtprh3.wasm": "sha256-nD1KqAI5YYz+YohqHaZ5EmXi7Eq9Uy9sUknnI8sj1AM=",
-      "SearchCountries.4afqh0ylz1.wasm": "sha256-3ODo6m0KD1x9Hf18vw5MchhtfgzcvVYXkzOCaEzzL/c="
+      "SearchCountries.oad7smve1v.wasm": "sha256-8JyL7JI/UFT8GIFpuoAJVRG16HCHxyxsDE+ypRsCTy4="
     },
     "pdb": {
-      "SearchCountries.2jevpof9eb.pdb": "sha256-TqQyZqLgu/tNm/Jv00SoUUu5YLptJ2zQtXaQs8QvRtI="
+      "SearchCountries.5o5db1wofc.pdb": "sha256-CxNL+qTu51fxH0hY85nMSBdCa7ed31pkKHDkPKRCWrY="
     }
   },
   "cacheBootResources": true,

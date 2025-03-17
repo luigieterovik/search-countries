@@ -11,6 +11,10 @@
       "RelativeMoniker": "D:0:0:{8D325A7C-84B9-434C-9D76-AF2EF364BF0D}|SearchCountries\\SearchCountries.csproj|solutionrelative:searchcountries\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8D325A7C-84B9-434C-9D76-AF2EF364BF0D}|SearchCountries\\SearchCountries.csproj|c:\\users\\etero\\source\\repos\\searchcountries\\searchcountries\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D325A7C-84B9-434C-9D76-AF2EF364BF0D}|SearchCountries\\SearchCountries.csproj|solutionrelative:searchcountries\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8D325A7C-84B9-434C-9D76-AF2EF364BF0D}|SearchCountries\\SearchCountries.csproj|c:\\users\\etero\\source\\repos\\searchcountries\\searchcountries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D325A7C-84B9-434C-9D76-AF2EF364BF0D}|SearchCountries\\SearchCountries.csproj|solutionrelative:searchcountries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,8 +30,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\etero\\source\\repos\\SearchCountries\\SearchCountries\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "SearchCountries\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\etero\\source\\repos\\SearchCountries\\SearchCountries\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "SearchCountries\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T14:51:18.879Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -36,19 +53,19 @@
               "RelativeDocumentMoniker": "SearchCountries\\Pages\\Home.razor",
               "ToolTip": "C:\\Users\\etero\\source\\repos\\SearchCountries\\SearchCountries\\Pages\\Home.razor",
               "RelativeToolTip": "SearchCountries\\Pages\\Home.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAB2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-17T14:22:33.197Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\etero\\source\\repos\\SearchCountries\\SearchCountries\\Program.cs",
               "RelativeDocumentMoniker": "SearchCountries\\Program.cs",
-              "ToolTip": "C:\\Users\\etero\\source\\repos\\SearchCountries\\SearchCountries\\Program.cs*",
-              "RelativeToolTip": "SearchCountries\\Program.cs*",
+              "ToolTip": "C:\\Users\\etero\\source\\repos\\SearchCountries\\SearchCountries\\Program.cs",
+              "RelativeToolTip": "SearchCountries\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-17T14:22:22.464Z",
@@ -60,16 +77,16 @@
               "Title": "SearchCountryInterface.razor",
               "DocumentMoniker": "C:\\Users\\etero\\source\\repos\\SearchCountries\\SearchCountries\\Pages\\SearchCountryInterface.razor",
               "RelativeDocumentMoniker": "SearchCountries\\Pages\\SearchCountryInterface.razor",
-              "ToolTip": "C:\\Users\\etero\\source\\repos\\SearchCountries\\SearchCountries\\Pages\\SearchCountryInterface.razor*",
-              "RelativeToolTip": "SearchCountries\\Pages\\SearchCountryInterface.razor*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABXAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\etero\\source\\repos\\SearchCountries\\SearchCountries\\Pages\\SearchCountryInterface.razor",
+              "RelativeToolTip": "SearchCountries\\Pages\\SearchCountryInterface.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-17T14:21:55.627Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CountryService.cs",
               "DocumentMoniker": "C:\\Users\\etero\\source\\repos\\SearchCountries\\SearchCountries\\Classes\\CountryService.cs",
               "RelativeDocumentMoniker": "SearchCountries\\Classes\\CountryService.cs",
@@ -77,8 +94,7 @@
               "RelativeToolTip": "SearchCountries\\Classes\\CountryService.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAowCgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T14:20:47.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T14:20:47.587Z"
             }
           ]
         }
