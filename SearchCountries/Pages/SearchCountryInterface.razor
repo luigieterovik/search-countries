@@ -1,0 +1,26 @@
+﻿@page "/country"
+@inject CountryService CountryService
+
+<h3>Buscar País</h3>
+<input @bind="CountryName" placeholder="Digite o nome do país" />
+<button @onclick="SearchCountry">Buscar</button>
+
+@if (CountryInfo != null)
+{
+    <h2>@CountryInfo.Name.Common</h2>
+    <img src="@CountryInfo.Flags.Png" alt="Bandeira de @CountryInfo.Name.Common" width="200" />
+    <p><strong>Continente:</strong> @string.Join(", ", CountryInfo.Continents)</p>
+    <p><strong>População:</strong> @CountryInfo.Population</p>
+    <p><strong>Línguas:</strong> @string.Join(", ", CountryInfo.Languages.Values)</p>
+    <p><strong>Moeda:</strong> @string.Join(", ", CountryInfo.Currencies.Select(c => $"{c.Value.Name} ({c.Value.Symbol})"))</p>
+}
+
+@code {
+    private string CountryName { get; set; }
+    private Country CountryInfo { get; set; }
+
+    private async Task SearchCountry()
+    {
+        CountryInfo = await CountryService.GetCountryByName(CountryName);
+    }
+}
